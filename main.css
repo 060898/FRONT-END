@@ -1,0 +1,47 @@
+
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2{
+    color:#0c0454;
+}
+.text{
+    width: 430px;
+    text-align: center;
+    margin:0 auto;
+}
+.bl1{
+    float: left;
+}
+.bl3{
+    margin: 0 auto;
+}
+.bl2{
+    float: right;
+}
+.box-inv{
+    clear: both;
+} 
+img{
+    max-width: 410px;
+    max-height: 260px;
+    width: 100%;
+    height: auto;
+}
+.tx1{
+    float: left;
+    width: 410px;
+}
+.tx2{
+    float: right;
+    width: 410px;
+}
+.tx3{
+    margin: 0 auto;
+    width: 408px;
+}
+.glavniy{
+    width: 1280px;
+    margin: 0 auto;
+}
